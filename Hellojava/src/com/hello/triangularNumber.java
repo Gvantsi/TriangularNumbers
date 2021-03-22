@@ -2,6 +2,7 @@ package com.hello;
 
 public class triangularNumber{
 
+	
 	public static void main(String[] args) {
 		
 		
