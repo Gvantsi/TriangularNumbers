@@ -20,7 +20,7 @@ while (x <= 10) {
 		triangularNumber = triangularNumber +x;
 	}
 }
-		
+	
 		
 	}
 
